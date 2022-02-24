@@ -20,4 +20,7 @@ Route::get('/', function () {
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
+    Route::get('/debug-sentry', function () {
+        throw new Exception('My first Sentry error!');
+    });
 });
