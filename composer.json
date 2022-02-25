@@ -14,7 +14,7 @@
         "laravel/tinker": "^2.7",
         "sentry/sentry-laravel": "^2.11",
         "tcg/voyager": "^1.5",
-        "ext-exif":"*"
+        "exif":"*"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
