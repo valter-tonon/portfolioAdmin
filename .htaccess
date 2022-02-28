@@ -6,3 +6,5 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ public/$1
 RewriteCond %{HTTP_HOST} ^(www.)?example.com$
 RewriteRule ^(/)?$ public/index.php [L]
+
+
