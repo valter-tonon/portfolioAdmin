@@ -19,3 +19,9 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 </IfModule>
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^valtertonon\.site$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.valtertonon\.site$
+RewriteRule ^(.*)$ "https\:\/\/www\.valtertonon\.site\/$1" [R=301,L]

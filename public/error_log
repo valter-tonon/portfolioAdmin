@@ -1,0 +1,267 @@
+[28-Feb-2022 11:30:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:30:13 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:31:04 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:32:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:32:36 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:34:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:37:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:42:09 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:45:17 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:45:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:46:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:46:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:47:16 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 11:47:19 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 11:47:20 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 11:47:24 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 11:48:17 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 11:49:15 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 11:50:03 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 11:52:10 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 11:56:29 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
+[28-Feb-2022 12:02:48 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:02:57 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:05:33 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:05:33 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:05:33 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:05:34 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:44 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:44 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:44 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:45 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:45 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:45 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:45 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:06:56 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:07:08 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:09:24 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:09:27 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:10:43 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:10:45 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:10:46 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:10:47 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:10:47 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:10:52 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:11:50 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:11:52 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:11:53 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:11:54 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:11:55 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:13:30 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', Array, true)
+#4 /home/jb in /home/jbgg8p2k/portfolioAdmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[28-Feb-2022 12:13:49 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27. in /home/jbgg8p2k/portfolioAdmin/vendor/composer/platform_check.php on line 24
